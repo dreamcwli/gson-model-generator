@@ -1,0 +1,14 @@
+{
+    "pet": {
+        "id": "String",
+        "name": "String",
+        "gender": "String",
+        "age": "int"
+    },
+    "user": {
+        "id": "String",
+        "name": "String",
+        "gender": "String",
+        "pets": "List<Pet>"
+    }
+}
